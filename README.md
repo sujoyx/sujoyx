@@ -12,7 +12,7 @@ I'm Sujoy, a self-taught data analyst from India.
 - My Projects, click **[HERE]()**
 
 ### 💡 Things i know 💡
-- Tools: SQL, Python, Power Bi, Microsoft Excel & Power Point
+- Tools: MYSQL, Python, Power Bi, Microsoft Excel & Power Point
 - Skills: Data Visualisation, Data Analysis, Data Cleaning and Wrangling, RDMS, Relational Databases, Dashboard Design and Report Writing
 
 ### ⚡️ Currently ⚡️

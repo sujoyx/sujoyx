@@ -9,7 +9,7 @@ I'm Sujoy, a self-taught data analyst from India.
 - 📝 Taught myself SQL, Python and Power Bi
 
 ### 📚 Projects  📚
-- My Projects, click **[HERE]()**
+- My Projects, click **[HERE](https://github.com/sujoyx/Project-Guide/blob/main/README.md)**
 
 ### 💡 Things i know 💡
 - Tools: MYSQL, Python, Power Bi, Microsoft Excel & Power Point

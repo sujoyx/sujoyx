@@ -19,7 +19,7 @@ _I'm Sujoy, a self-taught data analyst from India._
 - I am working on my project
 - Learning DBMS
 
-📄 My Resume click [HERE](https://drive.google.com/file/d/18J1T1bJGN-KQrUftv1DwAFQhhcQy0d3e/view?usp=share_link)
+📄 My Resume click [HERE](https://drive.google.com/file/d/1az04Mlo9oya7GaJHKNF2WcO5UZmoWFuY/view?usp=share_link)
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sujoynath/)

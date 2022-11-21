@@ -17,7 +17,7 @@ _I'm Sujoy, a self-taught data analyst from India._
 
 ### ⚡️ Currently ⚡️
 - I am working on my project
-- Learning RDMS
+- Learning DBMS
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sujoynath/)

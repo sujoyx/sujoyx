@@ -1,6 +1,6 @@
 ## Hi there! 🙋🏻‍♀️
 
-_I'm Sujoy, a self-taught data analyst from India._
+_I'm Sujoy, a self-taught data science from India._
 
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
